@@ -1,6 +1,6 @@
 {
-  "name": "empdirectory",
-  "homepage": "https://odianrobert.github.io/Odianrobert-Employee-Directory/",
+  "name": "employeedirectory",
+  "homepage": "https://j-whisler.github.io/employee-direct/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
